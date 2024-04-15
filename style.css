@@ -1,0 +1,78 @@
+.card {
+    width: 114px;
+    height: 200px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.620);
+    margin: 10px;
+    padding: 20px;
+    display: inline-block;
+}
+  
+.grama {
+    background-color: #78c850;
+}
+  
+.fogo {
+    background-color: #f08030;
+}
+  
+.agua {
+    background-color: #6890f0;
+}
+  
+.inseto {
+    background-color: #a8b820;
+}
+  
+.normal {
+    background-color: #a8a878;
+}
+  
+.eletrico {
+    background-color: #f8d030;
+}
+  
+.terra {
+    background-color: #e0c068;
+}
+  
+.lutador {
+    background-color: #c03028;
+}
+  
+.psiquico {
+    background-color: #f85888;
+}
+  
+.pedra {
+    background-color: #b8a038;
+}
+  
+.fantasma {
+    background-color: #705898;
+}
+  
+.gelo {
+    background-color: #98d8d8;
+}
+  
+.dragao {
+    background-color: #7038f8;
+}
+  
+.sombrio {
+    background-color: #705848;
+}
+  
+.metal {
+    background-color: #b8b8d0;
+}
+  
+.fada {
+    background-color: #ee99ac;
+}
+  
+.container {
+    text-align: center;
+}
